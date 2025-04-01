@@ -2,7 +2,7 @@
 
   ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-  video: XXX
+  video: https://weather-dashboard-application-y5xq.onrender.com/
 
   ## Table of Contents
 
@@ -15,15 +15,11 @@
 - [Questions](#questions)
 
   ## Description
-XXX
+a weather dashboard app that prompts you to enter a city and will return a 5 day forcast with humidity tempreture and wind speed.
 
   ## Installation
 
   copy HTML in git repo and clone in IDE
-
-  ## Usage
-
-XXX
 
   ## Contribution
 
